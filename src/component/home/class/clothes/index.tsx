@@ -18,6 +18,7 @@ function ClothesClass() {
               style={{
                 width: "100%",
               }}
+              alt="image_1"
             />
             <div className="bg-black bg-opacity-20 absolute top-2 left-2 right-2 bottom-2 flex items-center justify-center">
               <h1 className="text-white text-7xl transform scale-0 group-hover:scale-100 transition ">
@@ -34,6 +35,7 @@ function ClothesClass() {
               style={{
                 width: "100%",
               }}
+              alt="image_1"
             />
             <div className="bg-black bg-opacity-20 absolute top-2 left-2 right-2 bottom-2 flex items-center justify-center">
               <h1 className="text-white text-7xl transform scale-0 group-hover:scale-100 transition ">
@@ -50,6 +52,7 @@ function ClothesClass() {
               style={{
                 width: "100%",
               }}
+              alt="image_1"
             />
             <div className="bg-black bg-opacity-20 absolute top-2 left-2 right-2 bottom-2 flex items-center justify-center">
               <h1 className="text-white text-7xl transform scale-0 group-hover:scale-100 transition ">
@@ -68,6 +71,7 @@ function ClothesClass() {
               style={{
                 width: "100%",
               }}
+              alt="image_1"
             />
             <div className="bg-black bg-opacity-20 absolute top-2 left-2 right-2 bottom-2 flex items-center justify-center">
               <h1 className="text-white text-7xl transform scale-0 group-hover:scale-100 transition ">
@@ -84,6 +88,7 @@ function ClothesClass() {
               style={{
                 width: "100%",
               }}
+              alt="image_1"
             />
             <div className="bg-black bg-opacity-20 absolute top-2 left-2 right-2 bottom-2 flex items-center justify-center">
               <h1 className="text-white text-7xl transform scale-0 group-hover:scale-100 transition ">
