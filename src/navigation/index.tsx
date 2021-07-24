@@ -7,6 +7,7 @@ function NavigationRouter() {
   return (
     <Router>
       <SmmsHeader />
+      <div className="mt-24" />
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/product/:id" component={Product} />
